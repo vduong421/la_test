@@ -15,7 +15,7 @@ is focused, it:
 """
 
 # ================== USER CONFIG (EDIT THESE) ==================
-PI_IP = "172.20.10.5"          # Receiver IP address (desktop or Pi)
+PI_IP = "10.0.0.89"          # Receiver IP address (desktop or Pi)
 PI_PORT = 5000                 # TCP port; must match RECEIVER_PORT in pi.py
 
 SENDER_LOG_FILE = "sender_log.csv"    # Output CSV file on laptop
